@@ -58,7 +58,7 @@ mkdir %userprofile%\Desktop\Backup
 
 mv Myfile.txt %userprofile%\Documents
 
-![alt text](<Screenshot (305).png>)
+
 
 ## Exercise 2: Advanced Batch Scripting
 
